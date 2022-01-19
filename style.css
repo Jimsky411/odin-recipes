@@ -1,0 +1,16 @@
+body {
+    background-color: navy;
+}
+
+/* dit is een aantekening*/ 
+
+h1 {
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+li {
+    font-size: 35px;
+    padding: 4%;
+}
